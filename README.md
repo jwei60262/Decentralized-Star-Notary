@@ -78,9 +78,6 @@ Starting up http-server and to access front-end on http://127.0.0.1:8080/.
 
 Functions for claiming a new star and looking up a star by ID  are configured.
 
-
-Star power 103! I love my wonderful star ra_032.155 dec_121.874 mag_245.978
-
 ## Dependency
 
 ## Reference
