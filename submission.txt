@@ -1,0 +1,7 @@
+Smart contract has been deployed successfully.
+
+Contract address: 0xfcB8C8696a778A7d9139c39f25Ae69b1cb9D0fD9
+
+Transaction ID: 
+createStar(), 0x3b93d3c2ec209858a09a3718a93a225ac09ee2f6a8e389a007d283f82f32d2f4
+putStarUpForSale(), 0x007e2f3e4093b3b576c9569607e3818e75254f33f6d38b58d221ee7632370073

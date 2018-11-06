@@ -13,7 +13,7 @@
  */
 
 var HDWalletProvider = require('truffle-hdwallet-provider');
-var mnemonic = 'hip sadness pudding vintage voice armed relief forum fiscal curio us increase film';
+var mnemonic = "feed blossom globe minor dance success aspect volume proud tumble essence vacant";
 
 module.exports = {
   networks: { 
